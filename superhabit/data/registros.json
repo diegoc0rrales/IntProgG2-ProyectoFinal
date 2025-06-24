@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "habito_id": 1,
+    "fecha": "2025-06-17",
+    "completado": true,
+    "fecha_completado": "2025-06-17T09:36:06.122580",
+    "nota": "Recé"
+  },
+  {
+    "id": 2,
+    "habito_id": 1,
+    "fecha": "2025-06-23",
+    "completado": true,
+    "fecha_completado": "2025-06-23T21:27:40.907298",
+    "nota": "no"
+  },
+  {
+    "id": 3,
+    "habito_id": 2,
+    "fecha": "2025-06-23",
+    "completado": true,
+    "fecha_completado": "2025-06-23T21:57:44.400816",
+    "nota": "listo"
+  },
+  {
+    "id": 4,
+    "habito_id": 5,
+    "fecha": "2025-06-23",
+    "completado": true,
+    "fecha_completado": "2025-06-23T21:57:54.325643",
+    "nota": "l"
+  },
+  {
+    "id": 5,
+    "habito_id": 6,
+    "fecha": "2025-06-23",
+    "completado": true,
+    "fecha_completado": "2025-06-23T23:59:25.353804",
+    "nota": "hecho"
+  }
+]
